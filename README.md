@@ -16,7 +16,7 @@ pip install pypiwin32
 <br />
 <p align="center">
     <a href="https://youtu.be/HtJvQDSc4Ts">
-        <img src="https://nabegheha.com/img/Chrome_Password_Decrypt_github.jpg" alt="AmirHosein Moallemi">
+        <img src="https://raw.githubusercontent.com/NABEGHEHACOM/ChromeDecryptor/refs/heads/main/Chrome_Password_Decrypt_github.jpg" alt="AmirHosein Moallemi">
     </a>
 </p>
 
